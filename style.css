@@ -4,14 +4,48 @@ body {
 
 
 /* info section */
+ 
+.info-section {
+    text-align: center;
+    margin: 26px;
+}
 
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 56px;
 
+}
 .title {
     font-weight: 900;
     margin-bottom: 32px;
+    font-size: 32px;
 }
 
 img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
+
+/* quote */
+
+.quote-box {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    font-size: 20px;
+    
+}
+
+.quote {
+    margin-bottom: 12px;
+}
+
+.author {
+    font-weight: 900;
+    text-align: end;
+}
+
+
