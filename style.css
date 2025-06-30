@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* info section */
+
+
+.title {
+    font-weight: 900;
+    margin-bottom: 32px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
