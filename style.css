@@ -87,4 +87,14 @@ img {
     text-align: end;
 }
 
+/* footer */
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    background: #1f2937;
+    color: white;
+    padding: 20px;
+}
