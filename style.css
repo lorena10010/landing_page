@@ -54,7 +54,7 @@ a {
 
 
 .texta {
-    font-size: 22px;
+    font-size: 32px;
     
 }
 
@@ -68,6 +68,7 @@ button {
     background-color: #3882f6;
     border-radius: 5px;
     padding: 5px 10px;
+    border: 1px solid white;
 }
 
 img {
@@ -138,9 +139,16 @@ img {
     color: white;
     border-radius: 5px;
     gap: 32px;
-    
-
 }
+
+.textone {
+    font-size: 22px;
+}
+
+.texttwo {
+    font-size: 16px;
+}
+
 
 /* footer */
 
