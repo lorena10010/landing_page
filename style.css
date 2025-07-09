@@ -2,6 +2,10 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
 }
 
 /*text*/
@@ -14,7 +18,7 @@ body {
     align-content: center;
     color: white;
     background: #1f2937;
-    padding: 30px 50px;
+    padding: 30px 80px;
 
 }
 
@@ -41,11 +45,11 @@ a {
 
 .ctatop-text {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-content: center;
     color: white;
     background: #1f2937;
-    padding: 40px;
+    padding: 80px 270px;
 }
 
 
