@@ -37,6 +37,38 @@ a {
     font-size: 20px;
 }
 
+/* ctatop section */
+
+.ctatop-text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    color: white;
+    background: #1f2937;
+    padding: 40px;
+}
+
+
+.texta {
+    font-size: 22px;
+    
+}
+
+.textb {
+    font-size: 16px;
+    
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    border-radius: 5px;
+}
+
+img {
+    width: 200px;
+    height: 75px;
+}
 
 /* info section */
  
