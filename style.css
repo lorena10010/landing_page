@@ -140,10 +140,10 @@ img {
 /* cta bottom */
 .ctabox {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-content: center;
     background: #3882f6;
-    margin: 80px 400px;
+   
     padding: 30px 30px;
     color: white;
     border-radius: 5px;
