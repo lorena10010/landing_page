@@ -47,13 +47,14 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: #1f2937;
 }
 .ctatop-text {
     display: flex;
     justify-content: space-around;
     align-content: center;
     color: white;
-    background: #1f2937;
+    
     padding: 80px 270px;
 }
 
@@ -143,7 +144,6 @@ img {
     justify-content: center;
     align-content: center;
     background: #3882f6;
-   
     padding: 30px 30px;
     color: white;
     border-radius: 5px;
