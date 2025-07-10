@@ -3,7 +3,6 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: space-between;
     align-content: center;
     flex-direction: column;
 }
@@ -18,7 +17,7 @@ body {
     align-content: center;
     color: white;
     background: #1f2937;
-    padding: 20px 0;
+    padding: 20px 50px;
 
 }
 
@@ -46,9 +45,12 @@ a {
 
 .ctatop {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     background: #1f2937;
+    padding: 80px 10px;
+    flex-wrap: wrap;
+    
     
 }
 .ctatop-text {
@@ -56,7 +58,6 @@ a {
     justify-content: space-around;
     align-content: center;
     color: white;
-    padding: 80px 270px;
     gap: 100px;
 }
 
