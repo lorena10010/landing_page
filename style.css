@@ -48,14 +48,15 @@ a {
     justify-content: center;
     align-items: center;
     background: #1f2937;
+    
 }
 .ctatop-text {
     display: flex;
     justify-content: space-around;
     align-content: center;
     color: white;
-    
     padding: 80px 270px;
+    gap: 100px;
 }
 
 .texts {
@@ -81,9 +82,8 @@ button {
 }
 
 img {
-    width: 200px;
-    height: 300px;
     border-radius: 10px;
+    align-self: center;
 }
 
 /* info section */
