@@ -17,8 +17,6 @@ body {
     color: white;
     background: #1f2937;
     padding: 40px 150px 140px 150px;
-    
-
 }
 
 
@@ -130,9 +128,10 @@ img {
     background: #3882f6;
     padding: 30px 30px;
     color: white;
+    gap: 50px;
     border-radius: 5px;
-    gap: 32px;
     margin: 50px 250px;
+    flex-wrap: wrap;
 
 }
 
@@ -145,6 +144,9 @@ img {
     font-size: 16px;
 }
 
+.button-two {
+    padding: 3px 20px;
+}
 
 /* footer */
 
